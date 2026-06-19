@@ -2,7 +2,7 @@
 
 Welcome to my repository! This space contains my technical assessments and task submissions for the **Advanced Generative AI Internship** program at Innomatics Research Labs.
 
-## 📁 Repository Contents
+##  Repository Contents
 
 1. **`InnomaticsResearchLabs_EntranceTest.ipynb`**
    * **Description:** My initial entrance assessment for the internship.
@@ -12,7 +12,7 @@ Welcome to my repository! This space contains my technical assessments and task 
    * **Description:** Python logic building assignment (Task 1).
    * **Skills Demonstrated:** Control flow (if/else), loops, string manipulation, and list iteration. Solved 5 real-world logic problems including User Authentication, Data Cleaning, and Log Error Detection.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * Python 3
 * Jupyter Notebook / Google Colab
 * Pandas
